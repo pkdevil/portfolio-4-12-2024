@@ -31,8 +31,8 @@ export function Cursor() {
 
   return (
     <>
-      <div className="cursor cursor1"></div>
-      <div className="cursor cursor2"></div>
+      <div className="cursor cursor1 hidden sm:visible"></div>
+      <div className="cursor cursor2 hidden sm:visible"></div>
     </>
   );
 }

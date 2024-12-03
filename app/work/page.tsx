@@ -54,7 +54,7 @@ export default function WorkPage() {
     {
       title: (
         <>
-          PathX <br />
+          PathX <br /> UI Design
         </>
       ),
       description: "Immigration Website UI",
