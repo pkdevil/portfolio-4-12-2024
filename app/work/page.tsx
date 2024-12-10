@@ -17,7 +17,7 @@ export default function WorkPage() {
         </>
       ),
       description: "Figma Design",
-      link: "https://www.figma.com/proto/0jNcQrWLhR9rSUCEJ6HJj3/Revoult?node-id=0-922&t=DjtWFoGQk3fY5P5f-1",
+      link: "https://www.figma.com/proto/SevFy0cGzxTrjsOec5em0j/Project-24?node-id=60-4344&t=xYVUBRWzljoP9wpt-1",
       imageLink: "/img/projects/1.png",
     },
     {
@@ -27,7 +27,7 @@ export default function WorkPage() {
         </>
       ),
       description: "UI Design",
-      link: "https://www.figma.com/proto/SevFy0cGzxTrjsOec5em0j/siphome-landing-page-agensip?node-id=0-2&t=EBi5c4MDoWcPtjBa-1",
+      link: "https://www.figma.com/proto/SevFy0cGzxTrjsOec5em0j/Project-24?node-id=0-1&t=DtxaqYY7Gs7BBvK5-1",
       imageLink: "/img/projects/2.png",
     },
     {
