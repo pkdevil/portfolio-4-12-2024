@@ -13,11 +13,11 @@ export default function WorkPage() {
     {
       title: (
         <>
-          Revoult <br /> Website
+          Kitchen <br /> Xpress
         </>
       ),
-      description: "Figma Design",
-      link: "https://www.figma.com/proto/SevFy0cGzxTrjsOec5em0j/Project-24?node-id=60-4344&t=xYVUBRWzljoP9wpt-1",
+      description: "Website",
+      link: "https://kitchen-xpress.vercel.app/",
       imageLink: "/img/projects/1.png",
     },
     {
@@ -36,7 +36,7 @@ export default function WorkPage() {
           Flowyze <br /> Website
         </>
       ),
-      description: "Webflow Site",
+      description: "Bootstrap Site",
       link: "https://flowyze.com/de/",
       imageLink: "/img/projects/3.png",
     },
@@ -54,11 +54,11 @@ export default function WorkPage() {
     {
       title: (
         <>
-          PathX <br /> UI Design
+          Reel <br /> Vision
         </>
       ),
-      description: "Immigration Website UI",
-      link: "https://www.figma.com/proto/uKKbH0YYUdvaKNYxUUwjDd/Untitled?node-id=105-20730&t=bNCiKG811vbrIyZD-1",
+      description: "NextJS Website",
+      link: "https://reel-vision.vercel.app/",
       imageLink: "/img/projects/5.png",
     },
     {
