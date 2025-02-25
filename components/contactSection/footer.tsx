@@ -32,7 +32,12 @@ export function Footer({ className }: { className?: string }) {
       <FooterGroup
         className="hidden md:block"
         title="COPYRIGHT"
-        links={[{ href: "", text: "Copyright © PkDesign 2024." }]}
+        links={[
+          {
+            href: "",
+            text: `Copyright © PkDesign ${new Date().getFullYear()}.`,
+          },
+        ]}
       />
       <FooterGroup
         title="LOCAL TIME"
