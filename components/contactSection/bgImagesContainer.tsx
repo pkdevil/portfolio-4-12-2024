@@ -92,6 +92,12 @@ const bgImagesData = [
     title: "",
     subtitle: "",
   },
+  {
+    id: 15,
+    imgLink: "/svg_logo/angular-logo.svg",
+    title: "",
+    subtitle: "",
+  },
 ];
 
 function getRandDistrubutedTop(index: number, targets: any[]) {
