@@ -12,7 +12,7 @@ export function HeroWrapper({}) {
         </div>
         <div className="animation__wrapper anime">
           <span className="animate__this animate__this1 left-0">
-            Designer <span className="yellow__it">.</span>
+            Designer<span className="yellow__it">.</span>
             <br />
           </span>
           <span className="animate__this animate__this2 left-0">
